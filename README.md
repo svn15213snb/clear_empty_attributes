@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
