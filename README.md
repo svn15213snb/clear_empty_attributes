@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Fix Yolo 8.0.206 scale bug (#7821)
