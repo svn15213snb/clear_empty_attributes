@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Fix OBB xywh-angle concatenation bug (#7404)
