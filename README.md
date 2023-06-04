@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
