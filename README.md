@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
