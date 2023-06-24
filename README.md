@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
