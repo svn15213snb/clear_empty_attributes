@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Feature: Create HUB Models from CLI or Python Script (#7316)
