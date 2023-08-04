@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Improve Coral Edge TPU guide (#8160)
