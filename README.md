@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
