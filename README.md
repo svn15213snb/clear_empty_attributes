@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
