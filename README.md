@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
