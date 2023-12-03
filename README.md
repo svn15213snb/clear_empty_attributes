@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Compress docs images (#8124)
