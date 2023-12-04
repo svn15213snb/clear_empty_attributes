@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
