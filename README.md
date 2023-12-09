@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
