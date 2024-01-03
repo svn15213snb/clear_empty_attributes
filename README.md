@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
