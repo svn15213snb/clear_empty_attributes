@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
