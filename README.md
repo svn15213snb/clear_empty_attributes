@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
