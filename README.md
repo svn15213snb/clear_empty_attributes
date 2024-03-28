@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add visuals in guides/distance-calculation.md (#7876)
