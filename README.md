@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
