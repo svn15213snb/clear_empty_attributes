@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+OBB: Fix plot_images (#7592)
