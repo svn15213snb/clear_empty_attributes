@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
