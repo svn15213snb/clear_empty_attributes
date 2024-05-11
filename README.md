@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+YOLOv8 INT8 TFLite Inference Example (#7317)
