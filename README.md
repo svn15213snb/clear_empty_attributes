@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
