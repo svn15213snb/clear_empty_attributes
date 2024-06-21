@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Avoid creating -hub dir without processing images (#8334)
