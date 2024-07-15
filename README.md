@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add docstrings to new HUB functions (#7576)
