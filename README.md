@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Fix device counting method to account for double-digit device IDs (#8502)
