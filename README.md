@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add estimate_speed(region_color) parameter (#8285)
