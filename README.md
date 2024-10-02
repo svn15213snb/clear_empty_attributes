@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Fix cmake requirements for ARM64 (#8589)
