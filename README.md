@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
