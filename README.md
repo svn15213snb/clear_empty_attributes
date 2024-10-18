@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
